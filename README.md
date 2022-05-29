@@ -1,6 +1,6 @@
-#MERN AMAZONA
+# MERN AMAZONA
 
-#Lessons
+# Lessons
 1. introduction
 2. install tools
 3. create react app
